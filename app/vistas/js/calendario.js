@@ -1,4 +1,4 @@
-//*******      FUNCIÓN QUE GENERA EL CALENDARIO      *******/
+//*******      GENERO EL CALENDARIO     *******/
 let botonesModificar = false;
 // DECLARAR Y RENDERIZAR EL CALENDARIO
 document.addEventListener("DOMContentLoaded", function () {
@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
   calendar.render();
 });
 
+//*******     PARÁMETROS DEL CALENDARIO     *******/
 $(function () {
   var initialLocaleCode = "es";
   $.post(base_url + "Tareas_c/calendario", function (datos) {
@@ -49,7 +50,7 @@ $(function () {
             let botones = cambiarBotones();
             $("#botonesCal").html(botones);
 
-            ////  MANEJADORES BOTONES MODIFICAR Y BORRAR ////
+            ////  MANEJADOR  BOTON BORRAR ////
             $("#eliminarCal").on("click", function (evento) {
               evento.preventDefault();
               Swal.fire({
@@ -89,6 +90,7 @@ $(function () {
   });
 });
 
+// preparo un array con el formato de datos que voy a pasar a fullcalendar
 function prepararDatos(tareas) {
   let arrayTareas = [];
   for (let tarea of tareas) {
@@ -101,6 +103,7 @@ function prepararDatos(tareas) {
   return arrayTareas;
 }
 
+//si pulso en una tarea, se cambiarán los botones y el action del formulario
 function cambiarBotones() {
   let botonesNuevos;
   if (botonesModificar == false) {
@@ -114,36 +117,3 @@ function cambiarBotones() {
   }
   return botonesNuevos;
 }
-
-////  MANEJADORES BOTONES MODIFICAR Y BORRAR ////
-$("#eliminarCal").on("click", function (evento) {
-  evento.preventDefault();
-  Swal.fire({
-    title: "¿Estás seguro?",
-    text: "Esta acción es irreversible",
-    icon: "warning",
-    showCancelButton: true,
-    confirmButtonColor: "#1f5034",
-    cancelButtonColor: " #c54444",
-    confirmButtonText: "Sí, borrar",
-    cancelButtonText: "Cancelar",
-  }).then((result) => {
-    if (result.isConfirmed) {
-      //BORRAR ANIMAL
-      let id = nuevaTarea.idTarea.value;
-      datos = { idTarea: id };
-      $.post(base_url + "Tareas_c/borrar", datos, function (datos) {
-        Swal.fire({
-          title: "¡Eliminado!",
-          confirmButtonColor: "#1f5034",
-        }).then((result) => {
-          if (result.isConfirmed) {
-            location.href = base_url + "Tareas_c/index";
-            botonesModificar = true;
-            cambiarBotones();
-          }
-        });
-      });
-    }
-  });
-});
