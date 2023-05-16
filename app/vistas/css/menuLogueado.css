@@ -1,0 +1,58 @@
+body {
+    background-color: #c7d989;
+    font-family: Roboto;
+  }
+  html,body,.sinMargen{
+    margin:0!important;
+    padding:0!important;
+    box-sizing: border-box!important;
+  }
+  h1,
+  h2 {
+    font-family: Marcellus;
+    font-size: 4em;
+    color: #124026;
+  }
+
+  h2 {
+    font-size: 2em;
+  }
+
+  #menu {
+    background-color: #4d8c4a;
+  }
+
+  #centro {
+    background-color: #c7d989;
+  }
+
+  p {
+    font-family: Roboto;
+    color: #124026;
+    font-size: 3em;
+  }
+
+  .btn {
+    background-color: #e5f2c9;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    -webkit-box-shadow: 10px 10px 13px -5px rgba(18, 64, 38, 0.57);
+    -moz-box-shadow: 10px 10px 13px -5px rgba(18, 64, 38, 0.57);
+    box-shadow: 5px 5px 8px -5px rgba(18, 64, 38, 0.57);
+  }
+
+  .btn:hover {
+    background-color: #c7d989;
+  }
+
+  .activo{
+    background-color: #c7d989;
+  }
+
+  #logoMenu:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+  #enlaceLogo.activo{
+    background-color: transparent;
+  }
