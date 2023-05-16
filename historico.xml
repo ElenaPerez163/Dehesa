@@ -1,0 +1,5173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSLibroRegistroAnimalesGanaderoFecha xmlns="http://tempuri.org/DSLibroRegistroAnimalesTemporales.xsd">
+  <Animal>
+    <crotal>ES010104360159</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>14/10/2006</fechaNacimiento>
+    <explotacionNacimiento>ES180680000025</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES000102321459</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>13/11/2013</fechaAlta>
+    <procedencia>006/BA/0789</procedencia>
+    <CodigoLocalEntrada>GT0103975</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690027252531</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES071005370258</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>11/12/2008</fechaNacimiento>
+    <explotacionNacimiento>ES100070000068</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES091002972758</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>11/10/2013</fechaAlta>
+    <procedencia>007/CC/0068</procedencia>
+    <CodigoLocalEntrada>CC281212B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690026841651</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081005370260</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>24/07/2008</fechaNacimiento>
+    <explotacionNacimiento>ES100070000068</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES031002448606</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>11/10/2013</fechaAlta>
+    <procedencia>007/CC/0068</procedencia>
+    <CodigoLocalEntrada>CC281212B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690026841651</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>20/06/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1648309</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690088127274</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091005370261</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>03/04/2008</fechaNacimiento>
+    <explotacionNacimiento>ES100070000068</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES041002972753</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>11/10/2013</fechaAlta>
+    <procedencia>007/CC/0068</procedencia>
+    <CodigoLocalEntrada>CC281212B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690026841651</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES090103660452</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>25/04/2006</fechaNacimiento>
+    <explotacionNacimiento>ES181540000009</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES070102007086</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>13/11/2013</fechaAlta>
+    <procedencia>006/BA/0789</procedencia>
+    <CodigoLocalEntrada>GT0103975</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690027252531</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES051007680600</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>19/10/2015</fechaNacimiento>
+    <explotacionNacimiento>ES100370001262</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES091005859185</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>15/07/2016</fechaAlta>
+    <procedencia>037/CC/1262</procedencia>
+    <CodigoLocalEntrada>GT0446241</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690041644984</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES071009090744</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>21/02/2018</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES091007763984</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>21/02/2018</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES021009090750</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/05/2018</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006403193</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>18/05/2018</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES041009090752</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/05/2018</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001006403195</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/05/2018</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>12/02/2023</fechaBaja>
+    <destino>ES051581100571</destino>
+    <CodigoLocalSalida>GT1793019</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690093885567</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051009090753</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>02/06/2018</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051007017023</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>02/06/2018</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES071009090766</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/06/2018</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES080103264497</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/06/2018</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES061009090776</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>12/09/2018</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES041007017022</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>12/09/2018</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES001009090781</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>25/02/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES080102651998</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>25/02/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081010271516</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/11/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021007763976</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/11/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091010271517</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/11/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001007978360</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/11/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001010271518</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/11/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051008379068</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/11/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>22/05/2021</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1400004</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690074529764</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011010271519</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/11/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES011008379075</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/11/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>22/05/2021</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1400004</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690074529764</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011010271520</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>19/11/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES061007763981</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>19/11/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>22/05/2021</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1400004</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690074529764</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021010271521</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>19/11/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081007763983</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>19/11/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>22/05/2021</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1400004</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690074529764</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031010271522</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/11/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES081005370260</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>20/11/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES041010271523</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>28/11/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES010104360159</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>28/11/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051010271524</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>16/01/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES080103264497</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>16/01/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>22/05/2021</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1400004</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690074529764</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061010271525</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/04/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES091005370261</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/04/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>27/06/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1425793</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690075107784</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071010271526</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>29/01/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031007763977</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>29/01/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>18/10/2021</fechaBaja>
+    <destino>ES450550000030</destino>
+    <CodigoLocalSalida>GT1492753</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076942182</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081010271527</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>29/01/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011007397866</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>29/01/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>22/05/2021</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1400004</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690074529764</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091010271528</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>31/01/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES041006403202</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>31/01/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>12/09/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1473395</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076217427</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001010271529</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/02/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071009090766</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/02/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Muerte</causaBaja>
+    <fechaBaja>01/07/2021</fechaBaja>
+    <destino>99999999999999</destino>
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES001010271530</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>05/02/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011008708494</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>05/02/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>27/06/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1425793</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690075107784</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011010271531</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>05/02/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES080102651998</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>05/02/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>18/10/2021</fechaBaja>
+    <destino>ES450550000030</destino>
+    <CodigoLocalSalida>GT1492753</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076942182</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021010271532</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>08/02/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES031008107562</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>08/02/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>27/06/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1425793</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690075107784</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031010271533</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/02/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES091008246953</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/02/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>27/06/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1425793</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690075107784</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES041010271534</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>05/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051009090753</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>05/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>08/02/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1559068</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690080644572</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051010271535</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/02/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES091007763984</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>20/02/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>27/06/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1425793</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690075107784</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061010271536</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006403206</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES071010271537</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>08/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011006562965</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>08/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>18/10/2021</fechaBaja>
+    <destino>ES450550000030</destino>
+    <CodigoLocalSalida>GT1492753</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076942182</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081010271538</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>06/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES041007017022</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>06/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091010271539</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>06/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051007368350</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>06/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>12/09/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1473395</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076217427</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091010271540</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>25/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES050105348428</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>25/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>27/06/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1425793</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690075107784</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001010271541</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006403193</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>12/09/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1473395</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076217427</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011010271542</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071005370258</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>12/09/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1473395</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076217427</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021010271543</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>19/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021009090750</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>19/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>18/10/2021</fechaBaja>
+    <destino>ES450550000030</destino>
+    <CodigoLocalSalida>GT1492753</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076942182</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031010271544</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081007017026</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>20/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES041010271545</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051007978354</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>20/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>12/09/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1473395</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076217427</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051010271546</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>28/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES041007978353</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>28/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>08/02/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1559068</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690080644572</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061010271547</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>30/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021006403200</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>30/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>12/09/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1473395</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076217427</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071010271548</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>30/03/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES090103660452</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>30/03/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>18/10/2021</fechaBaja>
+    <destino>ES450550000030</destino>
+    <CodigoLocalSalida>GT1492753</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076942182</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081010271549</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/04/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001008839266</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/04/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>12/09/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1473395</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076217427</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081010271550</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>28/04/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES051006562969</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>28/04/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>18/10/2021</fechaBaja>
+    <destino>ES450550000030</destino>
+    <CodigoLocalSalida>GT1492753</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690076942182</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091010271551</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>29/05/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES021006562977</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>29/05/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>17/12/2021</fechaBaja>
+    <destino>ES100100000464</destino>
+    <CodigoLocalSalida>GT1527653</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690078127343</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001010271552</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>31/05/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071006028140</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>31/05/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>17/12/2021</fechaBaja>
+    <destino>ES100100000464</destino>
+    <CodigoLocalSalida>GT1527653</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690078127343</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061011041552</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>28/10/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051008379068</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>28/10/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES011010271553</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/06/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006932471</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>18/06/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>17/12/2021</fechaBaja>
+    <destino>ES100100000464</destino>
+    <CodigoLocalSalida>GT1527653</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690078127343</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071011041553</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>28/10/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071009517248</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>28/10/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES021010271554</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/06/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES041006932466</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/06/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>17/12/2021</fechaBaja>
+    <destino>ES100100000464</destino>
+    <CodigoLocalSalida>GT1527653</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690078127343</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081011041554</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/11/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071006028140</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/11/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES031010271555</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/06/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031006932465</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>20/06/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>17/12/2021</fechaBaja>
+    <destino>ES100100000464</destino>
+    <CodigoLocalSalida>GT1527653</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690078127343</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES080102651998</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>27/02/2008</fechaNacimiento>
+    <explotacionNacimiento>ES181540000009</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES060102652659</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>13/11/2013</fechaAlta>
+    <procedencia>006/BA/0789</procedencia>
+    <CodigoLocalEntrada>GT0103975</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690027252531</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES020103262031</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>19/11/2006</fechaNacimiento>
+    <explotacionNacimiento>ES181540000009</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES050102652658</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>13/11/2013</fechaAlta>
+    <procedencia>006/BA/0789</procedencia>
+    <CodigoLocalEntrada>GT0103975</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690027252531</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/09/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1711228</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690089918481</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081006472187</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>22/03/2011</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES061003379434</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>19/10/2012</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC269896B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022661578</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>15/01/2022</fechaBaja>
+    <destino>ES372742000011</destino>
+    <CodigoLocalSalida>GT1542720</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690078739210</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031006932465</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>25/04/2013</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES071005368850</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>18/10/2013</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC281381B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690026955202</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES041006932466</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>25/04/2013</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021003379430</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>18/10/2013</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC281381B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690026955202</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081006932471</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/05/2013</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081005368851</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>18/10/2013</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC281381B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690026955202</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081009842503</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/01/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES041007017022</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/01/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>05/06/2020</fechaBaja>
+    <destino>ES450670000273</destino>
+    <CodigoLocalSalida>GT1180728</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690067329242</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091009842504</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/01/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES091007763984</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/01/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>05/06/2020</fechaBaja>
+    <destino>ES450670000273</destino>
+    <CodigoLocalSalida>GT1180728</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690067329242</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001009842505</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/01/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES041006403202</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>20/01/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/06/2020</fechaBaja>
+    <destino>ES240871100131</destino>
+    <CodigoLocalSalida>GT1195890</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690068404136</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011009842506</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>02/02/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031007763977</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>02/02/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/08/2020</fechaBaja>
+    <destino>ES491494100031</destino>
+    <CodigoLocalSalida>GT1225862</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069138928</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021009842507</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/02/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES021006562977</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/02/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/06/2020</fechaBaja>
+    <destino>ES240871100131</destino>
+    <CodigoLocalSalida>GT1195890</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690068404136</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031009842508</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>26/01/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011008708494</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>26/01/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>10/09/2020</fechaBaja>
+    <destino>ES100070000157</destino>
+    <CodigoLocalSalida>GT1241124</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069529416</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES041009842509</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>26/01/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031008839258</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>26/01/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/08/2020</fechaBaja>
+    <destino>ES491494100031</destino>
+    <CodigoLocalSalida>GT1225862</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069138928</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES041009842510</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>07/02/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081007017026</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>07/02/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/06/2020</fechaBaja>
+    <destino>ES450980000148</destino>
+    <CodigoLocalSalida>GT1195635</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690068402567</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051009842511</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/02/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES050105348428</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/02/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/06/2020</fechaBaja>
+    <destino>ES240871100131</destino>
+    <CodigoLocalSalida>GT1195890</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690068404136</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061009842512</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>27/01/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES080102651998</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>27/01/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/08/2020</fechaBaja>
+    <destino>ES242281100021</destino>
+    <CodigoLocalSalida>GT1226195</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069141824</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071009842513</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>12/02/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011007397866</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>12/02/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/06/2020</fechaBaja>
+    <destino>ES450980000148</destino>
+    <CodigoLocalSalida>GT1195635</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690068402567</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081009842514</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>13/02/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES031004253890</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>13/02/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/08/2020</fechaBaja>
+    <destino>ES242281100021</destino>
+    <CodigoLocalSalida>GT1226195</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069141824</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091009842515</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>12/02/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES051006562969</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>12/02/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/08/2020</fechaBaja>
+    <destino>ES491494100031</destino>
+    <CodigoLocalSalida>GT1225862</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069138928</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001009842516</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>12/02/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES020105348436</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>12/02/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/06/2020</fechaBaja>
+    <destino>ES450980000148</destino>
+    <CodigoLocalSalida>GT1195635</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690068402567</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011009842517</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>13/03/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES091008246953</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>13/03/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>10/09/2020</fechaBaja>
+    <destino>ES100070000157</destino>
+    <CodigoLocalSalida>GT1241124</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069529416</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021009842518</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/03/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES041007978353</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/03/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>10/09/2020</fechaBaja>
+    <destino>ES100070000157</destino>
+    <CodigoLocalSalida>GT1241124</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069529416</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031009842519</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/02/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES031008107562</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>20/02/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/06/2020</fechaBaja>
+    <destino>ES450980000148</destino>
+    <CodigoLocalSalida>GT1195635</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690068402567</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031009842520</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>11/03/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES090103660452</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>11/03/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES041009842521</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>24/06/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES091005370261</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>24/06/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES051009842522</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/03/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES061008708499</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/03/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/08/2020</fechaBaja>
+    <destino>ES491494100031</destino>
+    <CodigoLocalSalida>GT1225862</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069138928</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061009842523</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/03/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021006403200</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/03/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/08/2020</fechaBaja>
+    <destino>ES491494100031</destino>
+    <CodigoLocalSalida>GT1225862</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069138928</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071009842524</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>05/03/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006403206</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>05/03/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091009842526</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/04/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071005370258</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/04/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>10/10/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1257714</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690070026473</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001009842527</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>02/04/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011006562965</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>02/04/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>10/09/2020</fechaBaja>
+    <destino>ES100070000157</destino>
+    <CodigoLocalSalida>GT1241124</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069529416</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011009842528</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>03/04/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071006028140</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>03/04/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>01/10/2020</fechaBaja>
+    <destino>ES100070000157</destino>
+    <CodigoLocalSalida>GT1253822</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690069891007</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021009842529</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>07/04/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071008839263</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>07/04/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>10/10/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1257714</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690070026473</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021009842530</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>27/04/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001006403195</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>27/04/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>21/11/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1283085</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690070792096</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031009842531</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>16/05/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006932471</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>16/05/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>21/11/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1283085</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690070792096</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES041009842532</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/05/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051007017023</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>18/05/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>21/11/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1283085</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690070792096</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051009842533</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/05/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES041006932466</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>18/05/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>21/11/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1283085</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690070792096</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061009842534</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/05/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031006932465</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>18/05/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>21/11/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1283085</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690070792096</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071009842535</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/04/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES030105348437</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>20/04/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081009842536</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/08/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES020103262031</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/08/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Muerte</causaBaja>
+    <fechaBaja>29/11/2021</fechaBaja>
+    <destino>99999999999999</destino>
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091009842537</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>02/10/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011008246955</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>02/10/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES001009842538</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/09/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006472187</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/09/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011009842539</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/09/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021008107561</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/09/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011009842540</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/09/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES061008379070</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/09/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021009842541</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>16/09/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES071007763982</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>16/09/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031009842542</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/09/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001006403208</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/09/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081007362764</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>25/06/2014</fechaNacimiento>
+    <explotacionNacimiento>ES100370001330</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Blonde aquitani</raza>
+    <crotalMadre>es061005579083</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>07/12/2014</fechaAlta>
+    <procedencia>037/CC/1330</procedencia>
+    <CodigoLocalEntrada>CC291409B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690032421385</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>02/07/2021</fechaBaja>
+    <destino>ES372742000011</destino>
+    <CodigoLocalSalida>GT1430645</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690075243270</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011006562965</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/03/2011</fechaNacimiento>
+    <explotacionNacimiento>ES100070000006</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Charolaise</raza>
+    <crotalMadre>ES061005180262</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>19/10/2012</fechaAlta>
+    <procedencia>007/CC/0006</procedencia>
+    <CodigoLocalEntrada>CC269895B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022661521</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>24/02/2022</fechaBaja>
+    <destino>ES370081110192</destino>
+    <CodigoLocalSalida>GT1568949</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690082605683</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051006562969</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>31/03/2011</fechaNacimiento>
+    <explotacionNacimiento>ES100070000006</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Charolaise</raza>
+    <crotalMadre>ES041005180260</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>19/10/2012</fechaAlta>
+    <procedencia>007/CC/0006</procedencia>
+    <CodigoLocalEntrada>CC269895B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022661521</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES021006562977</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>27/05/2011</fechaNacimiento>
+    <explotacionNacimiento>ES100070000006</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES051004379633</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>19/10/2012</fechaAlta>
+    <procedencia>007/CC/0006</procedencia>
+    <CodigoLocalEntrada>CC269895B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022661521</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>20/06/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1648309</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690088127274</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081006403193</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>06/06/2011</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES091003651214</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>19/10/2012</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC269896B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022661578</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES001006403195</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/10/2011</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES011004563762</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>12/09/2012</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC268412B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022202518</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES021006403200</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/12/2011</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031004380398</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>12/09/2012</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC268412B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022202518</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES041006403202</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>06/01/2012</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081004563769</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>12/09/2012</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC268412B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022202518</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081006403206</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>06/01/2012</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES071004784838</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>12/09/2012</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC268412B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022202518</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES001006403208</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/03/2012</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051003067405</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>19/10/2012</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC269896B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022661578</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES031004253890</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/07/2004</fechaNacimiento>
+    <explotacionNacimiento>ES100490000300</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES001002114364</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>26/09/2013</fechaAlta>
+    <procedencia>049/CC/0300</procedencia>
+    <CodigoLocalEntrada>CC280824B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690026657642</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021007763976</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/04/2015</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES080103264497</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/04/2015</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES031007763977</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/04/2015</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES020103262031</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/04/2015</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>23/05/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1625987</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087302074</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061007763981</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>24/05/2015</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES091005370261</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>24/05/2015</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES071007763982</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>31/10/2015</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051006403203</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>31/10/2015</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081007763983</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>14/06/2015</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001006403208</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>14/06/2015</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091007763984</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/11/2015</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES010104360159</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/11/2015</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES080103264497</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>16/04/2005</fechaNacimiento>
+    <explotacionNacimiento>ES181540000009</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES030103263444</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>13/11/2013</fechaAlta>
+    <procedencia>006/BA/0789</procedencia>
+    <CodigoLocalEntrada>GT0103975</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690027252531</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>20/06/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1648309</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690088127274</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011007425005</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/01/2014</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021006403200</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/01/2014</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>22/05/2020</fechaBaja>
+    <destino>ES371711110051</destino>
+    <CodigoLocalSalida>GT1169579</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690067049312</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091010116375</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>11/10/2020</fechaNacimiento>
+    <explotacionNacimiento>ES100370001262</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>es051007421494</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>01/07/2021</fechaAlta>
+    <procedencia>037/CC/1262</procedencia>
+    <CodigoLocalEntrada>GT1430185</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690075233426</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091008246953</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/01/2016</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES001006562964</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/01/2016</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES011008246955</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>19/01/2016</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES051006562969</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>19/01/2016</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES031008246957</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>29/01/2016</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES041006562968</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>29/01/2016</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>22/05/2020</fechaBaja>
+    <destino>ES371711110051</destino>
+    <CodigoLocalSalida>GT1169579</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690067049312</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001008246965</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/05/2016</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES001006562975</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>18/05/2016</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>18/06/2021</fechaBaja>
+    <destino>ES372742000011</destino>
+    <CodigoLocalSalida>GT1421223</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690075007187</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES041007017022</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/03/2012</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031003379431</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>19/10/2012</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC269896B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022661578</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES051007017023</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/03/2012</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001005728766</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>19/10/2012</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC269896B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022661578</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081007017026</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/04/2012</fechaNacimiento>
+    <explotacionNacimiento>ES101930000274</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001005266794</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>19/10/2012</fechaAlta>
+    <procedencia>193/CC/0274</procedencia>
+    <CodigoLocalEntrada>CC269896B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690022661578</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES071009517248</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>25/02/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES030105348437</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>25/02/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091009517251</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>24/02/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES050105348428</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>24/02/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES021009517254</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/05/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001007978360</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/05/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/03/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1129954</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690065821259</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071009517260</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>31/05/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006403193</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>31/05/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/03/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1129954</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690065821259</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091009517262</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>11/06/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES031008246957</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>11/06/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/03/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1129954</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690065821259</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011009517264</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>03/05/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031006932465</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>03/05/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/03/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1129954</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690065821259</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031009517266</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/06/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES071005370258</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/06/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/03/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1129954</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690065821259</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061009517270</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>11/06/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES041006932466</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>11/06/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/03/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1129954</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690065821259</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071009517271</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/06/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006932471</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/06/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/03/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1129954</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690065821259</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001009517274</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/07/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES080103264497</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/07/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>14/03/2020</fechaBaja>
+    <destino>ES100070000170</destino>
+    <CodigoLocalSalida>GT1129954</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690065821259</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021009517276</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>13/12/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES011008246955</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>13/12/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>17/04/2020</fechaBaja>
+    <destino>ES240871100241</destino>
+    <CodigoLocalSalida>GT1147137</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690066348913</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031009517277</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>03/07/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES091008107557</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>03/07/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES041009517278</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>03/01/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES071007978356</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>03/01/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>05/06/2020</fechaBaja>
+    <destino>ES242281100021</destino>
+    <CodigoLocalSalida>GT1181409</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690067339189</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051009517279</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>06/01/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES061007763981</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>06/01/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>05/06/2020</fechaBaja>
+    <destino>ES450670000273</destino>
+    <CodigoLocalSalida>GT1180728</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690067329242</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051009517280</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>23/09/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051007978354</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>23/09/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>05/06/2020</fechaBaja>
+    <destino>ES242281100021</destino>
+    <CodigoLocalSalida>GT1181409</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690067339189</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061009517281</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>13/12/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES081005370260</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>13/12/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>17/04/2020</fechaBaja>
+    <destino>ES450670000273</destino>
+    <CodigoLocalSalida>GT1147141</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690066348919</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071009517282</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>13/11/2019</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES010104360159</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>13/11/2019</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>17/04/2020</fechaBaja>
+    <destino>ES240871100241</destino>
+    <CodigoLocalSalida>GT1147137</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690066348913</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081009517283</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/01/2020</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051007368350</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/01/2020</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>05/06/2020</fechaBaja>
+    <destino>ES242281100021</destino>
+    <CodigoLocalSalida>GT1181409</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690067339189</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021008107561</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>23/06/2014</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081007017026</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>23/06/2014</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES031008107562</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>07/06/2014</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071006028140</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>07/06/2014</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES011007397866</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/05/2014</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES051006562969</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/05/2014</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>24/02/2022</fechaBaja>
+    <destino>ES370081110192</destino>
+    <CodigoLocalSalida>GT1568949</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690082605683</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071010527927</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/08/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES071007978356</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/08/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>17/12/2021</fechaBaja>
+    <destino>ES100100000464</destino>
+    <CodigoLocalSalida>GT1527653</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690078127343</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081010527928</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/08/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES020103262031</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/08/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>17/12/2021</fechaBaja>
+    <destino>ES100100000464</destino>
+    <CodigoLocalSalida>GT1527653</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690078127343</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091010527929</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/08/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES030105348437</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/08/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091010527930</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>23/08/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES061008379070</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>23/08/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>28/02/2022</fechaBaja>
+    <destino>ES300242500055</destino>
+    <CodigoLocalSalida>GT1571289</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690083338043</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001010527931</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>28/08/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051007017023</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>28/08/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>23/05/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1625987</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087302074</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011010527932</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>29/08/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES061009090776</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>29/08/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>23/05/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1625987</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087302074</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021010527933</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>31/08/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES071007763982</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>31/08/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>28/02/2022</fechaBaja>
+    <destino>ES300242500055</destino>
+    <CodigoLocalSalida>GT1571289</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690083338043</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031010527934</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/09/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011008246955</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/09/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>29/03/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1589233</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690085421760</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES041010527935</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>09/09/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001006403208</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>09/09/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>28/02/2022</fechaBaja>
+    <destino>ES300242500055</destino>
+    <CodigoLocalSalida>GT1571289</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690083338043</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051010527936</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>13/09/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001007978360</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>13/09/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>29/03/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1589233</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690085421760</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061010527937</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/09/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES071009090744</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/09/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>29/03/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1589233</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690085421760</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071010527938</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/09/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021007763976</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/09/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>28/02/2022</fechaBaja>
+    <destino>ES300242500055</destino>
+    <CodigoLocalSalida>GT1571289</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690083338043</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081010527939</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/09/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031008839258</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/09/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>29/03/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1589233</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690085421760</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081010527940</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/09/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES061008708499</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>18/09/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>29/03/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1589233</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690085421760</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091010527941</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/09/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001006403195</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>20/09/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>28/02/2022</fechaBaja>
+    <destino>ES300242500055</destino>
+    <CodigoLocalSalida>GT1571289</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690083338043</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001010527942</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>29/09/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES001009090781</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>29/09/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>23/05/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1625987</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087302074</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011010527943</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/10/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071008839263</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/10/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>29/03/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1589233</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690085421760</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021010527944</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/10/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081007763983</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/10/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>29/03/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1589233</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690085421760</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031010527945</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>20/09/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011008379075</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>20/09/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>28/02/2022</fechaBaja>
+    <destino>ES300242500055</destino>
+    <CodigoLocalSalida>GT1571289</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690083338043</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES041010527946</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>07/11/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051008379068</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>07/11/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>23/05/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1625987</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087302074</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051010527947</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>13/11/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021008107561</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>13/11/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>23/05/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1625987</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087302074</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061010527948</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>29/11/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071009517248</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>29/11/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>06/06/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1637277</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087770595</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071010527949</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>25/12/2021</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES081005370260</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>25/12/2021</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>23/05/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1625987</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087302074</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071010527950</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>04/01/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071009090766</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>04/01/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/09/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1711228</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690089918481</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081010527951</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>11/02/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES091005370261</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>11/02/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>06/06/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1637277</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087770595</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES091010527952</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/01/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES080103264497</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/01/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>06/06/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1637277</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087770595</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001010527953</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>22/01/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES031008107562</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>22/01/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES011010527954</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>26/01/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES080102651998</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>26/01/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>05/07/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1661168</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690088533336</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES021010527955</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/03/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011008708494</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/03/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES031010527956</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/02/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>es091009517251</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/02/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/09/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1711228</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690089918481</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES041010527957</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>29/03/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES050105348428</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>29/03/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>20/06/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1648309</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690088127274</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051010527958</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>21/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES041007978353</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>21/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>05/07/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1661168</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690088533336</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061010527959</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>22/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES090103660452</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>22/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>05/07/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1661168</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690088533336</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061010527960</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>29/03/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES041006403202</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>29/03/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>06/06/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1637277</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690087770595</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071010527961</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>12/02/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES091008246953</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>12/02/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/09/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1711228</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690089918481</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081010527962</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>25/03/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006403206</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>25/03/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091010527963</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>28/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071005370258</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>28/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>05/07/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1661168</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690088533336</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001010527964</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>07/03/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006403193</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>07/03/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES011010527965</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>08/03/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>es061007763981</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>08/03/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES021010527966</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/03/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES041007017022</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/03/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>18/10/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1724071</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690090481631</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071006028140</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/03/2009</fechaNacimiento>
+    <explotacionNacimiento>ES060060000788</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES050103320275</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>13/11/2013</fechaAlta>
+    <procedencia>006/BA/0788</procedencia>
+    <CodigoLocalEntrada>GT0103971</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690027252481</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES051007368350</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>25/05/2013</fechaNacimiento>
+    <explotacionNacimiento>ES100070000068</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES001005028192</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>11/10/2013</fechaAlta>
+    <procedencia>007/CC/0068</procedencia>
+    <CodigoLocalEntrada>CC281212B</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690026841651</CodigoREMOEntrada>
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES041007978353</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/04/2015</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES080102904812</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/04/2015</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES051007978354</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>31/10/2015</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES050103830014</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>31/10/2015</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES071007978356</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>21/03/2015</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001006472178</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>21/03/2015</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES001007978360</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/05/2015</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006403206</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/05/2015</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES050105348428</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/12/2009</fechaNacimiento>
+    <explotacionNacimiento>ES181540000009</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES040102904716</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>13/11/2013</fechaAlta>
+    <procedencia>006/BA/0789</procedencia>
+    <CodigoLocalEntrada>GT0103975</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690027252531</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>20/06/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1648309</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690088127274</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES020105348436</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>03/04/2010</fechaNacimiento>
+    <explotacionNacimiento>ES181540000009</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES060102651996</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>13/11/2013</fechaAlta>
+    <procedencia>006/BA/0789</procedencia>
+    <CodigoLocalEntrada>GT0103975</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690027252531</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>04/04/2021</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1364433</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690073488573</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES030105348437</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>05/06/2010</fechaNacimiento>
+    <explotacionNacimiento>ES181540000009</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES070102652650</crotalMadre>
+    <causaAlta>Movimiento</causaAlta>
+    <fechaAlta>13/11/2013</fechaAlta>
+    <procedencia>006/BA/0789</procedencia>
+    <CodigoLocalEntrada>GT0103975</CodigoLocalEntrada>
+    <CodigoREMOEntrada>100006690027252531</CodigoREMOEntrada>
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>15/01/2022</fechaBaja>
+    <destino>ES372742000011</destino>
+    <CodigoLocalSalida>GT1542720</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690078739210</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES011008708494</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/06/2017</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021006403200</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/06/2017</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES061008708499</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/08/2017</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071005370258</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/08/2017</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES051008379068</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/08/2016</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021006403200</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/08/2016</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES061008379070</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/08/2016</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011007425005</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/08/2016</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES011008379075</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/09/2016</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071006028140</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/09/2016</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES031008839258</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>05/11/2017</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES010104360159</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>05/11/2017</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES071008839263</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>05/11/2017</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES030105348437</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>05/11/2017</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES001008839266</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>06/11/2017</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001006403208</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>06/11/2017</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081010839489</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>14/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES021006562977</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>14/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>20/06/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1648309</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690088127274</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES081010839490</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES091007763984</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091010839491</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>17/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES051006562969</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>17/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/09/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1711228</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690089918481</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES001010839492</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/05/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021006403200</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/05/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES011010839493</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/05/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021009090750</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/05/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES021010839494</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/05/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031006932465</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/05/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>16/12/2022</fechaBaja>
+    <destino>ES100070000157</destino>
+    <CodigoLocalSalida>GT1760705</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690091803601</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES031010839495</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>10/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081007017026</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>10/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES041010839496</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>09/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>es031009517277</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>09/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>16/12/2022</fechaBaja>
+    <destino>ES100070000157</destino>
+    <CodigoLocalSalida>GT1760705</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690091803601</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051010839497</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>13/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001008839266</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>13/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>26/09/2022</fechaBaja>
+    <destino>ES372743000031</destino>
+    <CodigoLocalSalida>GT1711228</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690089918481</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061010839498</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>16/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051007368350</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>16/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES071010839499</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>18/04/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051007978354</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>18/04/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>18/10/2022</fechaBaja>
+    <destino>ES101630000249</destino>
+    <CodigoLocalSalida>GT1724071</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690090481631</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES051010839500</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/06/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081006932471</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/06/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>16/12/2022</fechaBaja>
+    <destino>ES101730000205</destino>
+    <CodigoLocalSalida>GT1761507</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690091822775</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES061010839501</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>01/08/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES061008379070</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>01/08/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>27/01/2023</fechaBaja>
+    <destino>ES371024100851</destino>
+    <CodigoLocalSalida>GT1782884</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690093043233</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071010839502</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>22/08/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031008839258</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>22/08/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081010839503</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>03/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES071007763982</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>03/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091010839504</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>06/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051009090753</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>06/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES001010839505</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>11/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES081007763983</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>11/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES011010839506</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>12/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES021007763976</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>12/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES021010839507</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>15/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES061009090776</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>15/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES041010839509</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>19/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES051007017023</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>19/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES041010839510</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>21/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001006403195</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>21/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES051010839511</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>24/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001006403208</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>24/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES061010839512</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>23/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES011008379075</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>23/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja>Movimiento</causaBaja>
+    <fechaBaja>27/01/2023</fechaBaja>
+    <destino>ES371024100851</destino>
+    <CodigoLocalSalida>GT1782884</CodigoLocalSalida>
+    <CodigoREMOSalida>100006690093043233</CodigoREMOSalida>
+  </Animal>
+  <Animal>
+    <crotal>ES071010839513</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>26/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES031009842520</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>26/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES081010839514</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>27/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES071008839263</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>27/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES091010839515</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>29/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Limousine</raza>
+    <crotalMadre>ES001007978360</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>29/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES001010839516</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>30/09/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES041009842521</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>30/09/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES011010839517</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>05/10/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Macho</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES021008107561</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>05/10/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+  <Animal>
+    <crotal>ES021010839518</crotal>
+    <fechaInicio>16/02/2020</fechaInicio>
+    <fechaFin>16/02/2023</fechaFin>
+    <explotacionPertenencia>ES101770000785</explotacionPertenencia>
+    <explotacionUbicacion>ES101770000785</explotacionUbicacion>
+    <fechaNacimiento>06/10/2022</fechaNacimiento>
+    <explotacionNacimiento>ES101770000785</explotacionNacimiento>
+    <sexo>Hembra</sexo>
+    <raza>Cruzada</raza>
+    <crotalMadre>ES061008708499</crotalMadre>
+    <causaAlta>Nacimiento</causaAlta>
+    <fechaAlta>06/10/2022</fechaAlta>
+    <procedencia />
+    <CodigoLocalEntrada />
+    <CodigoREMOEntrada />
+    <causaBaja />
+    <fechaBaja />
+    <destino />
+    <CodigoLocalSalida />
+    <CodigoREMOSalida />
+  </Animal>
+</DSLibroRegistroAnimalesGanaderoFecha>

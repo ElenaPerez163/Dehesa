@@ -1,0 +1,16 @@
+#calendar a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.fc-day-number {
+  color: #1f5034 !important;
+}
+
+.fc-week-number a {
+  color: #1f5034 !important;
+}
+
+.fc-week-number {
+  background-color: #e5f2c9;
+}

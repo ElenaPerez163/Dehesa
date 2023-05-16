@@ -1,0 +1,124 @@
+.btnOscuro,
+.btnMedio,
+.btnNaranja {
+  background-color: #124026 !important;
+  color: white;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
+  -webkit-box-shadow: 10px 10px 13px -5px rgba(18, 64, 38, 0.57);
+  -moz-box-shadow: 10px 10px 13px -5px rgba(18, 64, 38, 0.57);
+  box-shadow: 5px 5px 8px -5px rgba(18, 64, 38, 0.57);
+}
+
+.btnMedio {
+  background-color: #4d8c4a !important;
+}
+.btnNaranja {
+  background-color: #d96e11 !important;
+}
+
+.btnMedio:hover {
+  background-color: #5b9e57 !important;
+  color: white;
+}
+
+.btnOscuro:hover {
+  background-color: #1f5034 !important;
+  color: white;
+}
+
+.btnNaranja:hover {
+  background-color: #da8012 !important;
+  color: white;
+}
+
+.active {
+  background-color: #1f5034 !important;
+  color: white;
+}
+
+th {
+  background-color: #285e40 !important;
+  color: white !important;
+  font-weight: 500;
+}
+
+.conSombra {
+  border-radius: 5px;
+  -webkit-box-shadow: 5px 5px 5px -5px rgba(105, 113, 108, 0.57);
+  -moz-box-shadow: 5px 5px 5px -5px rgba(113, 121, 117, 0.57);
+  box-shadow: 5px 5px 8px -5px rgba(119, 125, 122, 0.57);
+}
+
+h4 {
+  font-family: Marcellus;
+  font-weight: 500;
+  color: #124026;
+}
+
+.btnPeligro {
+  background-color: #c54444 !important;
+  color: white !important;
+}
+
+.btnPeligro:hover {
+  background-color: #c14e4e !important;
+}
+
+h1 {
+  font-family: Marcellus;
+  font-size: 4em;
+  font-weight: 500;
+  color: #124026;
+}
+body {
+  font-size: 0.9em;
+}
+
+.contenedorTabla {
+  width: 80%;
+  min-height: 90%;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.titulo3,
+.titulo4 {
+  font-family: Marcellus;
+  font-size: 2em;
+  color: #124026;
+}
+
+.titulo4 {
+  font-size: 1.5em;
+}
+
+.nav-link {
+  background-color: #285e40 !important;
+  color: white !important;
+}
+
+.active {
+  background-color: white !important;
+  color: #285e40 !important;
+}
+
+.contenedorListado {
+  background-color: white;
+  min-height: 90vh;
+}
+
+.tablaTitulo {
+  color: rgba(56, 55, 55, 0.773);
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border: 1px solid #4d8c4a !important;
+  -webkit-box-shadow: 5px 5px 8px -5px rgba(103, 103, 103, 0.57) !important;
+  -moz-box-shadow: 8px 8px 13px -5px rgba(103, 103, 103, 0.57) !important;
+  box-shadow: 5px 5px 8px -5px rgba(103, 103, 103, 0.57) !important;
+}
