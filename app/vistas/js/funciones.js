@@ -119,6 +119,55 @@ function visualizarConMover(datos) {
   return cadena;
 }
 
+//aquí deberemos pasar los datos recogidos con la función anterior (partirListado) -> opción para listado de facturas
+function visualizarFacturas(datos) {
+  if (datos.length == 0) {
+    let cadena = `<div class="alert alert-secondary" role="alert">
+  <i class="bi bi-info-circle-fill"></i> No existen datos
+  </div>`;
+    return cadena;
+  }
+
+  let cadena = "<div class='table-responsive'>";
+  cadena +=
+    "<table class='text-start table mt-2 mb-3 px-lg-4 table-striped table-hover table-responsive'>";
+
+  //imprimo los títulos de tabla
+  cadena += "<tr class='text-center'>";
+  for (clave in datos[0]) {
+    cadena += `<th>${clave}</th>`;
+  }
+  cadena += `<th></th>`;
+  cadena += `<th></th>`;
+  cadena += `<th></th>`;
+  cadena += "<tr>";
+
+  for (let dato of datos) {
+    cadena += "<tr>";
+    for (let elemento in dato) {
+      cadena += "<td>";
+      if (dato[elemento] != null) {
+        cadena += dato[elemento];
+      }
+      cadena += "</td>";
+    }
+    cadena +=
+      "<td><i class='bi bi-filetype-pdf btnPDF fs-5' title='factura pdf' style='color: #1f5034; cursor:pointer;'></i></td>";
+    cadena +=
+      "<td><i class='bi bi-card-text btnDetalles fs-5' title='detalles factura' style='color: #1f5034; cursor:pointer;'></i></td>";
+    cadena +=
+      "<td><i class='bi bi-x-circle-fill btnBorrar fs-5' title='borrar factura' style='color: #c54444; cursor:pointer;'></i></td>";
+
+    cadena += "</tr>";
+  }
+
+  cadena += "</table>";
+  cadena += "</div>";
+
+  //devolvemos la cadena que queremos visualizar para insertarla donde toque
+  return cadena;
+}
+
 //**** IMPRIMIR BOTONES DE PAGINACIÓN ****//
 function imprimirBotones(paginas) {
   if (paginas == 0) {

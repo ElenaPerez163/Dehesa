@@ -16,14 +16,15 @@
     .pagination:hover {
         cursor: pointer;
     }
+
+    .contGeneral{
+        height: 90%;
+    }
 </style>
-            <div class="contenedorListado row">
+            <div class="contenedorListado row contGeneral">
                 <div class="listado col-9">
                     <div id="calendar" class="mt-3">
-                        <!-- AQUÍ VA EL LISTADO DE TAREAS GENERADO CON JAVASCRIPT -->
-                    </div>
-                    <div id="paginacionCalendario">
-                        <!-- AQUÍ VA EL LISTADO DE TAREAS GENERADO CON JAVASCRIPT -->
+                        <!-- AQUÍ VA EL CALENDARIO GENERADO CON JAVASCRIPT -->
                     </div>
                 </div>
 
@@ -52,7 +53,7 @@
 
                         <div id="botonesCal">
                         <button type="submit" class="btn mt-3 btnOscuro w-75">Nueva</button>
-                        <button type="reset" class="btn mt-3 btnMedio w-75">Limpiar</button>
+                        <button class="btn mt-3 btnMedio w-75 btnLimpiar">Limpiar</button>
                         </form>
                         </div>
 

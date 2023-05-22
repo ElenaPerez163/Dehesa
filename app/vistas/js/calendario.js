@@ -15,7 +15,6 @@ $(function () {
   $.post(base_url + "Tareas_c/calendario", function (datos) {
     let tareas = JSON.parse(datos);
     arrayTareas = prepararDatos(tareas.tareas);
-    console.log(arrayTareas);
     $("#calendar").fullCalendar({
       header: {
         left: "prev,next today",
@@ -42,7 +41,7 @@ $(function () {
           function (datos) {
             //cargar todos los valores de los campos del formulario con los datos recibidos
             let tarea = JSON.parse(datos);
-            console.log(tarea);
+
             nuevaTarea.nombreCal.value = tarea.nombre;
             nuevaTarea.descripcionCal.value = tarea.descripcion;
             nuevaTarea.fechaCal.value = tarea.fecha;
@@ -83,6 +82,18 @@ $(function () {
                 }
               });
             });
+
+            $(".btnLimpiar").on("click", function (evento) {
+              evento.preventDefault();
+              nuevaTarea.nombreCal.value = "";
+              nuevaTarea.descripcionCal.value = "";
+              nuevaTarea.fechaCal.value = "";
+              nuevaTarea.idTarea.value = "";
+              botonesModificar = true;
+              let botones = cambiarBotones();
+              $("#botonesCal").html(botones);
+              botonesModificar = false;
+            });
           }
         );
       },
@@ -109,11 +120,11 @@ function cambiarBotones() {
   if (botonesModificar == false) {
     document.nuevaTarea.action = base_url + "Tareas_c/modificar";
     botonesNuevos = `<button type="submit" class="btn mt-3 btnOscuro w-75">Modificar</button>
-        <button type="reset" class="btn mt-3 btnMedio w-75">Limpiar</button></form>
+        <button  class="btn mt-3 btnMedio w-75 btnLimpiar">Limpiar</button>
         <button id="eliminarCal" class="btn mt-3 btnPeligro w-75">Eliminar</button>`;
   } else {
     botonesNuevos = `<button type="submit" class="btn mt-3 btnOscuro w-75">Nueva</button>
-        <button type="reset" class="btn mt-3 btnMedio w-75">Limpiar</button></form>`;
+        <button  class="btn mt-3 btnMedio w-75 btnLimpiar">Limpiar</button>`;
   }
   return botonesNuevos;
 }
