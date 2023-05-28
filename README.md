@@ -45,6 +45,7 @@ NOTAS DE DESARROLLO:
        - El listado es un añadido extra por si el usuario prefiere usar la interfaz del resto de la aplicación por comodidad.
     
   - FACTURAS: Se pueden listar y filtrar facturas existentes. La bbdd ya cuenta con las tablas necesarias y se han creado triggers para actualizar el subtotal, el iva, el irpf y el total en función de las líneas de factura que se añadan. Trabajando actualmente en el crud completo y en la generación del pdf.
+  
   **HAY FUNCIONALIDADES INCOMPLETAS EN LAS QUE ESTOY TRABAJANDO EN ESTE MOMENTO:
   
     - TAREAS > CALENDARIO: Ahora mismo solo es un CRUD básico, falta manejar los eventos de drag and drop y editar
