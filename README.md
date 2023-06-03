@@ -25,21 +25,21 @@ NOTAS DE DESARROLLO:
     
   **FUNCIONALIDADES ACTUALES: 
   
-    - ANIMALES: Crud completo de animales. Al dar de alta un animal indicando que la causa es nacimiento se genera un parto
+   - ANIMALES: Crud completo de animales. Al dar de alta un animal indicando que la causa es nacimiento se genera un parto
     automático. El panel lateral se usa para aplicar filtros a estos listados. Al acceder a esta opción del menú aparecen dos
     pestañas superiores: animales y partos. En cada una de ellas se podrá consultar información, pero un parto solo puede
     darse de alta al registrar el nacimiento de un animal.
     
-    - INCIDENCIAS: Esta opción del menú es muy siliar a la de animales. Aquí se recoge un listado con las incidencias que se
+   - INCIDENCIAS: Esta opción del menú es muy siliar a la de animales. Aquí se recoge un listado con las incidencias que se
     produzcan en la explotación. Si al dar de alta a un animal por nacimiento se indica que el parto ha sido asistido, automática-
     mente se registrará una incidencia. El usuario puede también registrar todas las que quiera.
     
-    - GRUPOS: Reparto de animales de la explotación en grupos. Cada grupo está asociado a un terreno, al acceder a los detalles de un
+   - GRUPOS: Reparto de animales de la explotación en grupos. Cada grupo está asociado a un terreno, al acceder a los detalles de un
     grupo se mostrará una nueva vista en la que este se carga en un lateral, dejando el otro para el resumen de los demás grupos.
     Se pueden cambiar animales de grupo utilizando drag and drop en la cruceta que aparece en el listado (falta poner una imagen
     para mostrar mientras se arrastra).
     
-    - TAREAS: Esta opción del menú tiene dos pestañas a su vez, calendario y listado. 
+   - TAREAS: Esta opción del menú tiene dos pestañas a su vez, calendario y listado. 
        - En el calendario podemos ver todas las tareas agendadas con fullcalendar, además se pueden añadir nuevas, modificar las  
        actuales y borrarlas.
        - El listado es un añadido extra por si el usuario prefiere usar la interfaz del resto de la aplicación por comodidad.
