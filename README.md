@@ -43,20 +43,17 @@ NOTAS DE DESARROLLO:
        - En el calendario podemos ver todas las tareas agendadas con fullcalendar, además se pueden añadir nuevas, modificar las  
        actuales y borrarlas.
        - El listado es un añadido extra por si el usuario prefiere usar la interfaz del resto de la aplicación por comodidad.
+       -Se puede cambiar una tarea de fecha haciendo drag and drop.
     
-  - FACTURAS: Se pueden listar y filtrar facturas existentes. La bbdd ya cuenta con las tablas necesarias y se han creado triggers para actualizar el subtotal, el iva, el irpf y el total en función de las líneas de factura que se añadan. Trabajando actualmente en el crud completo y en la generación del pdf.
+  - FACTURAS: Se pueden listar y filtrar facturas existentes. La bbdd ya cuenta con las tablas necesarias y se han creado triggers para actualizar el subtotal, el iva, el irpf y el total en función de las líneas de factura que se añadan. 
+  - Ya hay un crud completo de facturas y se pueden visualizar (visor de pdf), descargar y consultar (modal) además de borrar.
+  
+  - CARGA INICIAL DE DATOS:
+  - Ya se puede realizar una carga inicial de datos a la explotación a partir de un XML. Se debe cargar un documento XML y al pulsar el botón 'subir' se realizará la carga de animales y se generarán partos automáticamente. También se les asignará un tipo en función de su edad o características.
   
   **HAY FUNCIONALIDADES INCOMPLETAS EN LAS QUE ESTOY TRABAJANDO EN ESTE MOMENTO:
   
-    - TAREAS > CALENDARIO: Ahora mismo solo es un CRUD básico, falta manejar los eventos de drag and drop y editar
-    la tabla de tareas y algunos campos para añadir fecha de inicio y fecha de fin a las mismas.
- 
-    - FACTURAS: Ahora mismo estoy trabajando en generar la factura y las líneas de factura desde la interfaz. Para generar las
-    facturas utilizaré la librería HTML2PDF.
-    
-    - CARGA INICIAL DE DATOS EN BBDD: Ya la realizo desde fuera de la interfaz con un script php y un archivo XML con los datos
-    de la explotación. Falta integrar esto en el framework MVC y generar un botón que lance una ventana modal para cargar el 
-    archivo.
+    - TAREAS > CALENDARIO: Falta editar la tabla de tareas y algunos campos para añadir fecha de inicio y fecha de fin a las mismas.
     
     - INCIDENCIAS: avisos cuando se produzca una nueva. Comprobar tiempo entre partos de nodrizas de la explotación al iniciar
     la aplicación para que se generen de forma automática.
