@@ -84,5 +84,8 @@ class Tareas_c extends Controller
         echo json_encode($datos);
     }
 
+    public function ModificarDrop(){
+        echo $this->tareas_m->modificar($_REQUEST);
+    }
 
 }

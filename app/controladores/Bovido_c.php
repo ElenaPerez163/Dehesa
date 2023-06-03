@@ -153,4 +153,101 @@ class Bovido_c extends Controller
     public function existe(){
         echo $this->bovido_m->existeAnimal($_REQUEST['crotal']);
     }
+
+    public function leerParaFactura(){
+        $datos['animal']=$this->bovido_m->leerParaFactura($_POST['crotal']);
+        echo json_encode($datos);
+    }
+
+    public function cargaInicial(){
+         //**** VAMOS A ORDENARLOS PARA QUE CADA ÍNDICE SEA UN ELEMENTO ****//
+         if (!empty($_FILES['inputCargaInicial'])) {
+           
+            $file = $_FILES['inputCargaInicial'];
+          
+            $file['name']="cargaInicial.xml";
+            // print_r($files); vemos el array ordenado
+           
+
+            $mensajes = [];
+           
+                $subida = new Uploader();
+                $camino = ROOT . "app/assets/documentos/"; //camino absoluto al que subir el archivo
+                $subida->setDir($camino);  //poner directorio de subida
+                $subida->setExtensions(array('xml')); //elegir extensiones permitidas
+                $subida->setMaxSize(5); //tamaño máximo en mb
+
+                if ($subida->uploadFile($file)) {
+                    //guardar registro en imagenes_articulos
+                    $this->cargarDatos();
+                    header("location:" . $_SERVER['HTTP_REFERER']);   
+                } else {
+                    $mensajes[] = "El archivo " . $file['name'] . " no se puede subir, " . $subida->getMessage();
+                    header("location:" . $_SERVER['HTTP_REFERER']);
+                }
+            
+        }
+    }
+
+    public function cargarDatos(){
+        //cargar el documento xml
+        $xml = simplexml_load_file(BASE_URL."app/assets/documentos/cargaInicial.xml") or die("Error: Cannot create object");
+       
+        //PRIMERO LIMPIO LAS TABLAS
+        
+        $this->bovido_m->vaciarPartos();
+        $this->bovido_m->vaciarAnimales();
+
+         //por cada animal del fichero xml
+        foreach ($xml->children() as $row) {
+            //guardo en variables los datos del animal que me interesan
+            $datos['crotal'] = $row->crotal;
+            $datos['explotacionPertenencia'] = $row->explotacionPertenencia;
+            $fechaNacimiento = $row->fechaNacimiento;
+            $datos['explotacionNacimiento'] = $row->explotacionNacimiento;
+            $datos['sexo'] = $row->sexo;
+            //raza se trata luego
+            $raza= $row->raza;
+            $datos['crotalMadre'] = $row->crotalMadre;
+            $datos['causaAlta'] = $row->causaAlta;
+            $fechaAlta = $row->fechaAlta;
+            $datos['causaBaja']=$row->causaBaja;
+            $fechaBaja=$row->fechaBaja;
+            $datos['idGrupo']=6;
+
+            //cambio el formato de las fechas para que se inserten bien
+            $objeto_DateTime = date_create_from_format("d/m/Y", $fechaNacimiento);
+            $datos['fechaNacimiento'] = date_format($objeto_DateTime, "Y-m-d");
+
+            $objeto_DateTime = date_create_from_format("d/m/Y", $fechaAlta);
+            $datos['fechaAlta'] = date_format($objeto_DateTime, "Y-m-d");
+
+            if($fechaBaja[0]){
+                $objeto_DateTime = date_create_from_format("d/m/Y", $fechaBaja);
+                $datos['fechaBaja'] = date_format($objeto_DateTime, "Y-m-d");
+            }else{
+                $datos['fechaBaja']=NULL;
+            }
+
+            //selecciono el id de la raza a partir del nombre porque en el xml viene así
+            $resultado=$this->bovido_m->consultarRaza($raza);
+            if (!empty($resultado)) {
+                $datos['raza']=$resultado['idRaza'];
+            } else {
+                $datos['raza']=5;
+            }
+            
+            //realizo la inserción de los datos
+            $insertado = $this->bovido_m->insertar($datos);
+
+            if (!$insertado) {
+                $mensaje[] = "El animal no se pudo insertar en la base de datos";
+            }
+           
+        }
+
+            $result = $this->bovido_m->asignarTipos();
+           
+
+    }
 }

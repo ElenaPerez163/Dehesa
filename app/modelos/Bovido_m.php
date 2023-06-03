@@ -131,10 +131,42 @@ class Bovido_m extends Model
         return $this->fila()['existe'];  //será 0 o 1
     }
 
+    public function leerParaFactura($crotal){
+        $cadSQL="SELECT crotal,sexos(sexo) as sexo,(select raza.nombre from raza where raza.idRaza=bovido.raza) as raza from bovido where crotal='$crotal'";
+        $this->consultar($cadSQL);
+        return $this->fila();
+    }
+
     public function leerCrotales()
     {
         $cadSQL = "SELECT crotal from bovido where causaBaja=''";
         $this->consultar($cadSQL);
         return $this->resultado();
+    }
+
+    public function consultarRaza($raza){
+        $cadSQL="SELECT idRaza from raza where nombre='$raza'";
+        $this->consultar($cadSQL);
+        return $this->fila();
+    }
+
+    public function asignarTipos(){
+       
+        $cadSQL = "call asignarTipos()";
+        $this->consultar($cadSQL);
+        return $this->ejecutar();
+
+    }
+
+    public function vaciarAnimales(){
+        $cadSQL="TRUNCATE TABLE bovido";
+        $this->consultar($cadSQL);
+        return $this->ejecutar();
+    }
+
+    public function vaciarPartos(){
+        $cadSQL="TRUNCATE TABLE parto";
+        $this->consultar($cadSQL);
+        return $this->ejecutar();
     }
 }

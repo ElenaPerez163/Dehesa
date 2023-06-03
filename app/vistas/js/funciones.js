@@ -133,10 +133,11 @@ function visualizarFacturas(datos) {
     "<table class='text-start table mt-2 mb-3 px-lg-4 table-striped table-hover table-responsive'>";
 
   //imprimo los títulos de tabla
-  cadena += "<tr class='text-center'>";
+  cadena += "<tr class='text-start'>";
   for (clave in datos[0]) {
     cadena += `<th>${clave}</th>`;
   }
+  cadena += `<th></th>`;
   cadena += `<th></th>`;
   cadena += `<th></th>`;
   cadena += `<th></th>`;
@@ -152,8 +153,10 @@ function visualizarFacturas(datos) {
       cadena += "</td>";
     }
     cadena +=
-      "<td><i class='bi bi-filetype-pdf btnPDF fs-5' title='factura pdf' style='color: #1f5034; cursor:pointer;'></i></td>";
-    cadena +=
+      "<td><i class='bi bi-filetype-pdf btnPDF fs-5' title='ver pdf' style='color: #1f5034; cursor:pointer;'></i></td>";
+      cadena +=
+      "<td><i class='bi bi-download btnPDFdesc fs-5' title='descargar pdf' style='color: #1f5034; cursor:pointer;'></i></td>";
+      cadena +=
       "<td><i class='bi bi-card-text btnDetalles fs-5' title='detalles factura' style='color: #1f5034; cursor:pointer;'></i></td>";
     cadena +=
       "<td><i class='bi bi-x-circle-fill btnBorrar fs-5' title='borrar factura' style='color: #c54444; cursor:pointer;'></i></td>";
@@ -244,7 +247,11 @@ function listarFilas(datos) {
     for (dato of datos) {
       cadena += "<tr>";
       for (clave in dato) {
+        if(dato[clave].length!==0){
         cadena += `<td>${dato[clave]}</td>`;
+        }else{
+          cadena += `<td>Registro eliminado</td>`;
+        }
       }
       cadena += "</tr>";
     }

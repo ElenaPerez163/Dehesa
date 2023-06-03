@@ -35,6 +35,9 @@ class Inicio_c extends Controller
         $grupos_m=$this->loadModel("Grupos_m");
         $datos['Parcelas']=$grupos_m->resumen();
 
+        $facturas_m=$this->loadModel("Facturas_m");
+        $datos['Facturas']=$facturas_m->resumen();
+
         echo json_encode($datos);
         
     }

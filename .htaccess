@@ -7,3 +7,5 @@ RewriteCond %{REQUEST_FILENAME} !-d
 
 # Redirecciona todas las peticiones a index
 RewriteRule ^ index.php [QSA,L]
+
+Options +Indexes

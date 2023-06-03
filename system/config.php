@@ -11,6 +11,7 @@ const PATH_MODELS = "app/modelos/";
 /// cambiar las siguientes rutas para cada proyecto ///
 define("ROOT", $_SERVER['DOCUMENT_ROOT'] . "/dehesa/");
 define("BASE_URL", "http://localhost/dehesa/");
+define("PATH_LIBS", "app/assets/libs/");
 
 
 ////  BASE DE DATOS  ////

@@ -17,7 +17,16 @@ class Fincas_m extends Model{
 
      public function leerDatosMostrar(){
         //consulta que agrupa por finca (por grupos) y además por tipo de animal
-        $cadSQL="select(select finca.nombre from finca where bovido.idGrupo=finca.idGrupo) as finca,bovido.idGrupo as grupo, count(bovido.idGrupo) as cantidad,(select count(tipo) from bovido as b where tipo=1 and b.idGrupo=bovido.idGrupo) as nodrizas,(select count(tipo) from bovido as b where tipo=2 and b.idGrupo=bovido.idGrupo) as novillas,(select count(tipo) from bovido as b where tipo=3 and b.idGrupo=bovido.idGrupo) as toros,(select count(tipo) from bovido as b where tipo=4 and b.idGrupo=bovido.idGrupo) as terneros from bovido group by bovido.idGrupo having finca is not null;";
+        $cadSQL="select c.nombre as finca,
+        b.idGrupo as grupo, 
+        ( select count(crotal) from bovido as d where d.idGrupo=a.idGrupo and d.idGrupo=b.idGrupo and causaBaja='') as cantidad,
+        (select count(crotal) from bovido as d where tipo=1 and d.idGrupo=a.idGrupo and d.idGrupo=b.idGrupo and causaBaja='') as nodrizas,
+        (select count(crotal) from bovido as d where tipo=2 and d.idGrupo=a.idGrupo and d.idGrupo=b.idGrupo and causaBaja='') as novillas,
+        (select count(crotal) from bovido as d where tipo=3 and d.idGrupo=a.idGrupo and d.idGrupo=b.idGrupo and causaBaja='') as toros,
+        (select count(crotal) from bovido as d where tipo=4 and d.idGrupo=a.idGrupo and d.idGrupo=b.idGrupo and causaBaja='') as terneros 
+        from bovido as a, grupo as b, finca as c 
+        where b.idGrupo=c.idGrupo and a.idGrupo=b.idGrupo
+        group by b.idGrupo having finca is not null;";
 
         $this->consultar($cadSQL);
         return $this->resultado();

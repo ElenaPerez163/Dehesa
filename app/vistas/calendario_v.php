@@ -22,8 +22,8 @@
     }
 </style>
             <div class="contenedorListado row contGeneral">
-                <div class="listado col-9">
-                    <div id="calendar" class="mt-3">
+                <div class="listado col-9 px-lg-5">
+                    <div id="calendar" class="px-lg-5 pt-lg-2">
                         <!-- AQUÍ VA EL CALENDARIO GENERADO CON JAVASCRIPT -->
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                     <h2 class="mt-1">Tarea</h2>
                     <form class=" justify-content-center" name="nuevaTarea" action="<?= BASE_URL; ?>Tareas_c/insertar" method="post" enctype="multipart/form-data">
                         <div class="form-floating mb-3">
-                            <input type="text" class="form-control" id="nombreCal" name="nombre" placeholder="nombre" >
+                            <input type="text" class="form-control" id="nombreCal" name="nombre" placeholder="nombre" required>
                             <label for="nombre">nombre</label>
                         </div>
 
@@ -46,7 +46,7 @@
 
                         <div class="mb-2 text-start">
                             <label for="fechaCal" class="form-label">Fecha:</label>
-                            <input type="date" class="form-control" id="fechaCal" name="fecha">
+                            <input type="date" class="form-control" id="fechaCal" name="fecha" required>
                         </div>
 
                         <input type="hidden" name="idTarea" id="idTarea" value="0">

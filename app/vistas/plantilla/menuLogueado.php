@@ -47,6 +47,7 @@ if (isset($_SESSION['menuActivo'])) { //si hay algún menú activo guardado, lo 
   <!-- paso mi constante PHP a Javascript para tenerla disponible -->
   <script>
   const base_url = '<?= BASE_URL; ?>';
+  const root='<?= ROOT;?>';
   </script>
   <!-- script donde genero mi calendario (debe estar en el head) -->
   <script src="<?= BASE_URL?>app/vistas/js/calendario.js"></script>
@@ -58,16 +59,46 @@ if (isset($_SESSION['menuActivo'])) { //si hay algún menú activo guardado, lo 
 
     <div id="menu" class="container-fluid col-lg-2 col-md-12 d-flex gap-lg-4 flex-md-row  flex-lg-column justify-content-center align-items-center justify-content-lg-start justify-content-md-evenly align-items-md-center align-items-lg-stretch  text-center px-lg-3 px-md-3 px-1">
     
-      <a id="enlaceLogo"href="<?= BASE_URL ?>Inicio_c/resumen"><img title="Resumen" id="logoMenu" class="mt-lg-5 mb-lg-3 mb-md-2" src="<?= BASE_URL ?>app/assets/img/NuevoClaro.png" alt="resumen" width="125"></a>
+      <a id="enlaceLogo"href="<?= BASE_URL ?>Inicio_c/resumen"><img title="Resumen" id="logoMenu" class="mt-lg-3 mb-lg-2 mb-md-2" src="<?= BASE_URL ?>app/assets/img/NuevoClaro.png" alt="resumen" width="125"></a>
 
         <a data-menu="1" href="<?= BASE_URL ?>Bovido_c/index" class="btn" type="button">Animales</a>
         <a data-menu="2" href="<?= BASE_URL ?>Incidencias_c/index" class="btn" type="button">Incidencias</a>
         <a data-menu="3" href="<?= BASE_URL ?>Fincas_c/index" class="btn" type="button">Grupos</a>
         <a data-menu="4" href="<?= BASE_URL ?>Tareas_c/index" class="btn" type="button">Tareas</a>
         <a data-menu="5" href="<?= BASE_URL ?>Facturas_c/index" class="btn" type="button">Facturas</a>
-        <a href="<?= BASE_URL ?>Inicio_c/index" class="btn ml-md-5 mt-lg-5 btnPeligro" type="button">Cerrar Sesión</a>
+        <button data-bs-toggle="modal" data-bs-target="#cargaInicialModal" type="button" id="btnCargaInicial" class="btn ml-md-5 mt-lg-5 btnOscuro ">Carga Inicial</button>
+        <a href="<?= BASE_URL ?>Inicio_c/index" class="btn btnPeligro" type="button">Cerrar Sesión</a>
     
     </div>
+
+      <!-- Modal -->
+        <div class="modal fade" id="cargaInicialModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Carga inicial de datos</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+              <form action="<?=BASE_URL?>Bovido_c/cargaInicial" method="POST" name="formCargaInicial" id="formCargaInicial" enctype="multipart/form-data">
+              <div class="mb-3">
+                <label for="formFile" class="form-label">**El archivo seleccionado debe ser un XML descargado de CAÑADA</label>
+                <input class="form-control" type="file" id="inputCargaInicial" name="inputCargaInicial" required>
+                <div id="validationServerUsernameFeedback" class="invalid-feedback">
+                  El fichero debe tener la extensión .xml
+                </div>
+              </div>  
+                                      
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btnPeligro" data-bs-dismiss="modal">Cerrar</button>
+                <button type="submit" class="btn btnOscuro">Cargar</button>
+                </form>
+              </div>
+            </div>
+           
+          </div>
+        </div>
 
     <script>
       //obtener la variable del menú activo
@@ -76,7 +107,7 @@ if (isset($_SESSION['menuActivo'])) { //si hay algún menú activo guardado, lo 
       //poner el menú activo
       $("#menu a").eq(menuActivo).addClass("activo");
 
-      //EVENTO PARA CAMBIAR AL HACER CLICK
+      //EVENTO PARA CAMBIAR COLOR AL BOTÓN AL HACER CLICK
       //Activar la opción corriente y desactivar las demás
       $("#menu").on("click", "a", function(evento) {
         //desactivar el activo (removeClass también lo haría si seleccionamos todos los a)
@@ -89,4 +120,34 @@ if (isset($_SESSION['menuActivo'])) { //si hay algún menú activo guardado, lo 
         });
 
       });
+
+      //VALIDACIÓN TIPO DE ARCHIVO
+      $("#inputCargaInicial").on("change",function(evento){
+        if(document.getElementById('inputCargaInicial').files[0].name){
+        let nombre=document.getElementById('inputCargaInicial').files[0].name;
+        console.log(nombre);
+        if(nombre.slice(-4)!='.xml'){
+          document.formCargaInicial.inputCargaInicial.classList.add("is-invalid");
+          document.formCargaInicial.inputCargaInicial.classList.add("no-valido");
+        }else{
+          document.formCargaInicial.inputCargaInicial.classList.remove("is-invalid");
+          document.formCargaInicial.inputCargaInicial.classList.remove("no-valido");
+
+        }
+      }
+        
+      });
+
+      // VALIDACIÓN DEL FORMULARIO ANTES DE ENVIAR
+      $(document.formCargaInicial).on("submit", function (evento) {
+        evento.preventDefault();
+        // Ver validación
+        if (!this.checkValidity()) {
+          this.classList.add("was-validated");
+        } else {
+          if ($(".no-valido").length == 0) this.submit();
+        }
+      });
+
+     
     </script>

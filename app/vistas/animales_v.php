@@ -178,7 +178,7 @@
 
                     <div class="row mb-3 justify-content-center">
                         <div class="col-sm-10">
-                            <textarea class="form-control" name="observaciones" placeholder="Observaciones" rows="4" cols="30"></textarea>
+                            <textarea class="form-control" name="observaciones" placeholder="Observaciones" rows="4" cols="30" maxlength="350"></textarea>
                         </div>
                     </div>
 

@@ -6,7 +6,7 @@ class Usuario_m extends Model{
     }
 
     public function autenticar($usuario,$password){
-        $cadSQL = "SELECT * FROM usuario WHERE (usuario.usuario=:usuario)";
+        $cadSQL = "SELECT * FROM usuario WHERE (usuario=:usuario)";
         $this->consultar($cadSQL);
         $this->enlazar(":usuario", $usuario);
         $fila = $this->fila();

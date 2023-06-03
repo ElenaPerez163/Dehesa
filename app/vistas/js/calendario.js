@@ -25,12 +25,19 @@ $(function () {
       buttonIcons: false, // show the prev/next text
       weekNumbers: true,
       navLinks: true, // can click day/week names to navigate views
-      editable: true,
       eventLimit: true,
       events: arrayTareas,
-      eventDrop: function (datos) {
-        let moment = $("#calendar").fullCalendar("getDate");
-        console.log(moment);
+      editable: true,
+      eventDrop: function(info) {
+        let nuevaFecha=info.start.toISOString();
+        let idTareaR=info.id;
+        datos={
+          fecha:nuevaFecha,
+          idTarea:idTareaR
+        }
+        $.post(base_url+"Tareas_c/modificarDrop",datos,function(datos){
+          console.log(datos);
+        });
       },
       eventDragStart: function (datos) {},
       eventClick: function (datos) {
@@ -105,10 +112,12 @@ $(function () {
 function prepararDatos(tareas) {
   let arrayTareas = [];
   for (let tarea of tareas) {
+    let start = moment(tarea.fecha).format('YYYY-MM-DD');
     arrayTareas.push({
       id: tarea.idTarea,
       title: tarea.nombre,
-      start: tarea.fecha,
+      start: start,
+      end:start
     });
   }
   return arrayTareas;
