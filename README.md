@@ -45,11 +45,11 @@ NOTAS DE DESARROLLO:
        - El listado es un añadido extra por si el usuario prefiere usar la interfaz del resto de la aplicación por comodidad.
        -Se puede cambiar una tarea de fecha haciendo drag and drop.
     
-  - FACTURAS: Se pueden listar y filtrar facturas existentes. La bbdd ya cuenta con las tablas necesarias y se han creado triggers para actualizar el subtotal, el iva, el irpf y el total en función de las líneas de factura que se añadan. 
-  - Ya hay un crud completo de facturas y se pueden visualizar (visor de pdf), descargar y consultar (modal) además de borrar.
+   - FACTURAS: Se pueden listar y filtrar facturas existentes. La bbdd ya cuenta con las tablas necesarias y se han creado triggers para actualizar el subtotal, el iva, el irpf y el total en función de las líneas de factura que se añadan. 
+     - Ya hay un crud completo de facturas y se pueden visualizar (visor de pdf), descargar y consultar (modal) además de borrar.
   
-  - CARGA INICIAL DE DATOS:
-  - Ya se puede realizar una carga inicial de datos a la explotación a partir de un XML. Se debe cargar un documento XML y al pulsar el botón 'subir' se realizará la carga de animales y se generarán partos automáticamente. También se les asignará un tipo en función de su edad o características.
+   - CARGA INICIAL DE DATOS:
+     - Ya se puede realizar una carga inicial de datos a la explotación a partir de un XML. Se debe cargar un documento XML y al pulsar el botón 'subir' se realizará la carga de animales y se generarán partos automáticamente. También se les asignará un tipo en función de su edad o características.
   
   **HAY FUNCIONALIDADES INCOMPLETAS EN LAS QUE ESTOY TRABAJANDO EN ESTE MOMENTO:
   
