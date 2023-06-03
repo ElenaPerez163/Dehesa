@@ -44,17 +44,14 @@ NOTAS DE DESARROLLO:
        actuales y borrarlas.
        - El listado es un añadido extra por si el usuario prefiere usar la interfaz del resto de la aplicación por comodidad.
     
+  - FACTURAS: Se pueden listar y filtrar facturas existentes. La bbdd ya cuenta con las tablas necesarias y se han creado triggers para actualizar el subtotal, el iva, el irpf y el total en función de las líneas de factura que se añadan. Trabajando actualmente en el crud completo y en la generación del pdf.
   
   **HAY FUNCIONALIDADES INCOMPLETAS EN LAS QUE ESTOY TRABAJANDO EN ESTE MOMENTO:
   
     - TAREAS > CALENDARIO: Ahora mismo solo es un CRUD básico, falta manejar los eventos de drag and drop y editar
     la tabla de tareas y algunos campos para añadir fecha de inicio y fecha de fin a las mismas.
-    
-    - Al pinchar en una tarea, esta se vuelca en el panel lateral, pero si se pulsa en limpiar los botones no cambian a los
-    anteriores, esto es lo siguiente en lo que trabajaré, solo es añadir un evento a ese botón.
  
-    - FACTURAS: Esta opción está por construir, ahora mismo estoy trabajando en añadir las tablas requeridas a la base de datos
-    e incluir triggers para gestionar bajas y altas de animales y líneas de factura al generarlas o borrarlas. Para generar las
+    - FACTURAS: Ahora mismo estoy trabajando en generar la factura y las líneas de factura desde la interfaz. Para generar las
     facturas utilizaré la librería HTML2PDF.
     
     - CARGA INICIAL DE DATOS EN BBDD: Ya la realizo desde fuera de la interfaz con un script php y un archivo XML con los datos
