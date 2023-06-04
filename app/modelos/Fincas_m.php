@@ -17,16 +17,17 @@ class Fincas_m extends Model{
 
      public function leerDatosMostrar(){
         //consulta que agrupa por finca (por grupos) y además por tipo de animal
-        $cadSQL="select c.nombre as finca,
-        b.idGrupo as grupo, 
-        ( select count(crotal) from bovido as d where d.idGrupo=a.idGrupo and d.idGrupo=b.idGrupo and causaBaja='') as cantidad,
-        (select count(crotal) from bovido as d where tipo=1 and d.idGrupo=a.idGrupo and d.idGrupo=b.idGrupo and causaBaja='') as nodrizas,
-        (select count(crotal) from bovido as d where tipo=2 and d.idGrupo=a.idGrupo and d.idGrupo=b.idGrupo and causaBaja='') as novillas,
-        (select count(crotal) from bovido as d where tipo=3 and d.idGrupo=a.idGrupo and d.idGrupo=b.idGrupo and causaBaja='') as toros,
-        (select count(crotal) from bovido as d where tipo=4 and d.idGrupo=a.idGrupo and d.idGrupo=b.idGrupo and causaBaja='') as terneros 
-        from bovido as a, grupo as b, finca as c 
-        where b.idGrupo=c.idGrupo and a.idGrupo=b.idGrupo
-        group by b.idGrupo having finca is not null;";
+        $cadSQL="SELECT c.nombre AS finca,
+        b.idGrupo AS grupo,
+        COUNT(d.crotal) AS cantidad,
+        COUNT(CASE WHEN d.tipo = 1 THEN d.crotal END) AS nodrizas,
+        COUNT(CASE WHEN d.tipo = 2 THEN d.crotal END) AS novillas,
+        COUNT(CASE WHEN d.tipo = 3 THEN d.crotal END) AS toros,
+        COUNT(CASE WHEN d.tipo = 4 THEN d.crotal END) AS terneros
+        FROM finca AS c
+        LEFT JOIN grupo AS b ON c.idGrupo = b.idGrupo
+        LEFT JOIN bovido AS d ON b.idGrupo = d.idGrupo AND d.causaBaja = ''
+        GROUP BY c.nombre, b.idGrupo;";
 
         $this->consultar($cadSQL);
         return $this->resultado();

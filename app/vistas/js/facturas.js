@@ -95,7 +95,7 @@ function manejadoresByM() {
             confirmButtonColor: "#1f5034",
           }).then((result) => {
             if (result.isConfirmed) {
-              //location.href = base_url + "Facturas_c/index";
+              location.href = base_url + "Facturas_c/index";
             }
           });
         });

@@ -17,7 +17,7 @@ class Bovido_m extends Model
 
     public function listado()
     {
-        $cadSQL = "select bovido.crotal as crotal, bovido.nombre as nombre, grupo.nombre as grupo, finca.nombre as finca, invertirFecha(bovido.fechaNacimiento) as nacimiento, bovido.crotalMadre as madre 
+        $cadSQL = "select bovido.crotal as crotal, (select nombre from raza where raza.idRaza=bovido.raza) as raza, grupo.nombre as grupo, finca.nombre as finca, invertirFecha(bovido.fechaNacimiento) as nacimiento, bovido.crotalMadre as madre 
         from bovido inner join grupo on bovido.idGrupo=grupo.idGrupo inner join finca on grupo.idGrupo=finca.idGrupo where grupo.idGrupo=finca.idGrupo and causaBaja='' and crotal like :crotal and bovido.crotalMadre like :crotalMadre and (bovido.raza=:raza or :raza=0) and (bovido.idGrupo=:grupo or :grupo=0) and (bovido.fechaNacimiento between :desde and :hasta)";
 
         $this->consultar($cadSQL);
