@@ -51,10 +51,5 @@ NOTAS DE DESARROLLO:
    - CARGA INICIAL DE DATOS:
      - Ya se puede realizar una carga inicial de datos a la explotación a partir de un XML. Se debe cargar un documento XML y al pulsar el botón 'subir' se realizará la carga de animales y se generarán partos automáticamente. También se les asignará un tipo en función de su edad o características.
   
-  **HAY FUNCIONALIDADES INCOMPLETAS EN LAS QUE ESTOY TRABAJANDO EN ESTE MOMENTO:
   
-    - TAREAS > CALENDARIO: Falta editar la tabla de tareas y algunos campos para añadir fecha de inicio y fecha de fin a las mismas.
-    
-    - INCIDENCIAS: avisos cuando se produzca una nueva. Comprobar tiempo entre partos de nodrizas de la explotación al iniciar
-    la aplicación para que se generen de forma automática.
     
