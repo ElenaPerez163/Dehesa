@@ -47,6 +47,9 @@ function asignarEnlace(tabla) {
     case "Parcelas":
       enlace = base_url + "Fincas_c/index";
       break;
+	case "Facturas":
+      enlace = base_url + "Facturas_c/index";
+      break;
 
     default:
       break;

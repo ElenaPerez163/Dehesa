@@ -42,7 +42,7 @@ class Incidencias_m extends Model
     {
         $cadSQL = "select idIncidencia as codigo, tipoincidencia.nombreInc as tipo, incidencia.crotal as crotal, left(Descripcion,55) as descripcion, invertirFecha(incidencia.fechaIncidencia) as fecha
         from incidencia inner join tipoincidencia on incidencia.tipo=tipoincidencia.idTipoInc
-        where crotal like :crotal and (incidencia.tipo=:tipo or :tipo=0) and (incidencia.fechaIncidencia between :desde and :hasta) order by 5 desc";
+        where crotal like :crotal and (incidencia.tipo=:tipo or :tipo=0) and (incidencia.fechaIncidencia between :desde and :hasta) order by fechaIncidencia desc";
 
         $this->consultar($cadSQL);
 

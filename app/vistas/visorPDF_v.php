@@ -39,8 +39,9 @@ canvas {
 </head>
 <body>
 <!--   HTML -->
-  <?define("ROOT", $_SERVER['DOCUMENT_ROOT'] . "/dehesa/");?>
-  <?define("BASE_URL", "http://localhost/dehesa/");?>
+  <?define("ROOT",$_SERVER['DOCUMENT_ROOT'] . "/dehesa/");
+	define("BASE_URL", "https://www.dehesagestion.es/dehesa/");
+	?>
   <script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
 
 <canvas class="centrado" id="the-canvas"></canvas>

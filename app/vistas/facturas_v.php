@@ -232,7 +232,7 @@
                                 <div class="row mb-4 justify-content-end">   
                                         
                                 <label for="numCrotal" class="col-sm-1 col-form-label text-end textoFac">Crotal</label>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-4">
                                         <input class="form-control" list="opcionesCrotales" name="numCrotal" id="numCrotal" placeholder="Buscar...">
                                         <datalist id="opcionesCrotales">
                                             <?php foreach ($crotales as $crotal) : ?>

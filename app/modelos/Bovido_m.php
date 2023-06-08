@@ -159,7 +159,7 @@ class Bovido_m extends Model
     }
 
     public function vaciarAnimales(){
-        $cadSQL="TRUNCATE TABLE bovido";
+        $cadSQL="Delete from bovido";
         $this->consultar($cadSQL);
         return $this->ejecutar();
     }

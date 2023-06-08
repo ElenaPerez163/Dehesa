@@ -8,7 +8,8 @@ if (isset($_SESSION['menuActivo'])) { //si hay algún menú activo guardado, lo 
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Title</title>
+    <title>Dehesa</title>
+	<link rel="icon" type="image/jpg" href="<?= BASE_URL ?>app/assets/img/icono2.png"/>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta

@@ -38,7 +38,7 @@ function visualizarDatos(datos) {
     "<table class='text-start table mt-2 mb-3 px-lg-4 table-striped table-hover table-responsive'>";
 
   //imprimo los títulos de tabla
-  cadena += "<tr class='text-center'>";
+  cadena += "<tr>";
   for (clave in datos[0]) {
     cadena += `<th>${clave}</th>`;
   }

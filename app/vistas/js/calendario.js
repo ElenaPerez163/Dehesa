@@ -132,8 +132,9 @@ function cambiarBotones() {
         <button  class="btn mt-3 btnMedio w-75 btnLimpiar">Limpiar</button>
         <button id="eliminarCal" class="btn mt-3 btnPeligro w-75">Eliminar</button>`;
   } else {
+	document.nuevaTarea.action = base_url + "Tareas_c/insertar";
     botonesNuevos = `<button type="submit" class="btn mt-3 btnOscuro w-75">Nueva</button>
-        <button  class="btn mt-3 btnMedio w-75 btnLimpiar">Limpiar</button>`;
+    <button  class="btn mt-3 btnMedio w-75 btnLimpiar">Limpiar</button>`;
   }
   return botonesNuevos;
 }

@@ -53,7 +53,7 @@ class Facturas_m extends Model{
     }
 
     public function traerMunicipios(){
-        //CON EL ID DE PROVINCIA SELECCIONAR TODOS LOS MUNICIPIOS 
+        //CON EL ID DE PROVINCIA SELECCIONAR TODOS LOS MUNICIPIOS
         $cadSQL="SELECT municipio_id,nombre FROM municipios WHERE provincia_id=:provincia ORDER BY 2";
         $this->consultar($cadSQL);
         $this->enlazar(":provincia", $_POST['ProvinciaCli']);
@@ -62,9 +62,9 @@ class Facturas_m extends Model{
 
     public function listado()
     {
-        $cadSQL = "select factura.numFactura as número, concat(cliente.NombreCli,' ',cliente.ApellidosCli) as cliente, invertirFecha(factura.fechaFac) as fecha, round(factura.total,2) as total
+        $cadSQL = "select factura.numFactura as número, concat(cliente.NombreCli,' ',cliente.ApellidosCli) as cliente, invertirFecha(factura.fechaFac) as fecha, concat(round(factura.total,2),'€') as total
         from factura inner join cliente on factura.IdClienteFac=cliente.idCliente
-        where factura.numFactura like :numFactura and (cliente.idCliente=:idCliente or :idCliente=0) and (factura.fechaFac between :desde and :hasta) order by 1 asc"; //ordeno por fecha
+        where factura.numFactura like :numFactura and (cliente.idCliente=:idCliente or :idCliente=0) and (factura.fechaFac between :desde and :hasta) order by fechaFac asc"; //ordeno por fecha
 
         $this->consultar($cadSQL);
 
@@ -134,14 +134,14 @@ class Facturas_m extends Model{
 
     //LEER DATOS PARA GENERAR LA FACTURA
     public function leerFactura($numFactura){
-        $cadSQL="SELECT numFactura,fechaFac,round(subtotalFac,2) as subtotalFac,round(ivaFac,2) as ivaFac,round(irpfFac,2) as irpfFac, round(Total,2) as Total 
-        FROM `factura` 
+        $cadSQL="SELECT numFactura,fechaFac,round(subtotalFac,2) as subtotalFac,round(ivaFac,2) as ivaFac,round(irpfFac,2) as irpfFac, round(Total,2) as Total
+        FROM `factura`
         WHERE numFactura='$numFactura'";
         $this->consultar($cadSQL);
-       
+
         return $this->fila();
 
-        
+
     }
 
     public function leerLineasFactura($numFactura){
@@ -154,7 +154,7 @@ class Facturas_m extends Model{
     }
 
     public function leerCliente($idCliente){
-        $cadSQL="SELECT NIFCli,nombreCli,ApellidosCli,DireccionCli,cpostalCli, 
+        $cadSQL="SELECT NIFCli,nombreCli,ApellidosCli,DireccionCli,cpostalCli,
         (select nombre from municipios where PoblacionCli=municipio_id) as PoblacionCli,
         (select nombre from provincias where ProvinciaCli=provincia_id) as ProvinciaCli
         FROM `cliente` WHERE idCliente=$idCliente";
@@ -169,15 +169,15 @@ class Facturas_m extends Model{
     }
 
     public function leerFacturaDetalles($numFactura){
-        $cadSQL="SELECT numFactura as 'Número',invertirFecha(fechaFac) as Fecha, (SELECT concat(NombreCli,' ',ApellidosCli) from Cliente 
-        where idCliente=idClienteFac) as Cliente, concat(round(subtotalFac,2),'€') as Subtotal, concat(round(ivaFac,2),'€') as IVA, concat(round(irpfFac,2),'€') as IRPF, concat(round(Total,2),'€') as Total
+        $cadSQL="SELECT numFactura as 'Número',invertirFecha(fechaFac) as Fecha, (SELECT concat(NombreCli,' ',ApellidosCli) from cliente
+        where idCliente=idClienteFac) as 'Cliente', concat(round(subtotalFac,2),'€') as 'Subtotal', concat(round(ivaFac,2),'€') as IVA, concat(round(irpfFac,2),'€') as IRPF, concat(round(Total,2),'€') as Total
         from factura where numFactura='$numFactura'";
         $this->consultar($cadSQL);
         return $this->fila();
     }
 
     public function leerLineasDetalles($numFactura){
-        $cadSQL="SELECT numCrotal as Crotal, concat(round(precioAnimal,2),'€') as precio from lineaFactura where numFactura='$numFactura'";
+        $cadSQL="SELECT numCrotal as Crotal, concat(round(precioAnimal,2),'€') as precio from lineafactura where numFactura='$numFactura'";
         $this->consultar($cadSQL);
         return $this->resultado();
     }

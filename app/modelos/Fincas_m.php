@@ -18,16 +18,16 @@ class Fincas_m extends Model{
      public function leerDatosMostrar(){
         //consulta que agrupa por finca (por grupos) y además por tipo de animal
         $cadSQL="SELECT c.nombre AS finca,
-        b.idGrupo AS grupo,
-        COUNT(d.crotal) AS cantidad,
-        COUNT(CASE WHEN d.tipo = 1 THEN d.crotal END) AS nodrizas,
-        COUNT(CASE WHEN d.tipo = 2 THEN d.crotal END) AS novillas,
-        COUNT(CASE WHEN d.tipo = 3 THEN d.crotal END) AS toros,
-        COUNT(CASE WHEN d.tipo = 4 THEN d.crotal END) AS terneros
-        FROM finca AS c
-        LEFT JOIN grupo AS b ON c.idGrupo = b.idGrupo
-        LEFT JOIN bovido AS d ON b.idGrupo = d.idGrupo AND d.causaBaja = ''
-        GROUP BY c.nombre, b.idGrupo;";
+       b.idGrupo AS grupo,
+       COUNT(d.crotal) AS cantidad,
+       COUNT(CASE WHEN d.tipo = 1 THEN d.crotal END) AS nodrizas,
+       COUNT(CASE WHEN d.tipo = 2 THEN d.crotal END) AS novillas,
+       COUNT(CASE WHEN d.tipo = 3 THEN d.crotal END) AS toros,
+       COUNT(CASE WHEN d.tipo = 4 THEN d.crotal END) AS terneros
+		FROM finca AS c
+		LEFT JOIN grupo AS b ON c.idGrupo = b.idGrupo
+		LEFT JOIN bovido AS d ON b.idGrupo = d.idGrupo AND d.causaBaja = ''
+		GROUP BY c.nombre, b.idGrupo;";
 
         $this->consultar($cadSQL);
         return $this->resultado();

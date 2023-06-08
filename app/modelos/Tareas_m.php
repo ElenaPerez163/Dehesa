@@ -14,7 +14,7 @@ class Tareas_m extends Model{
 
     public function listado()
     {
-        $cadSQL = "SELECT tarea.idTarea as codigo, invertirFecha(tarea.fecha) as fecha, tarea.nombre as nombre, left(tarea.Descripcion,65) as descripcion FROM tarea where nombre like :nombre and descripcion like :descripcion and (tarea.fecha between :desde and :hasta) order by 2 desc";
+        $cadSQL = "SELECT tarea.idTarea as codigo, invertirFecha(tarea.fecha) as fecha, tarea.nombre as nombre, left(tarea.Descripcion,65) as descripcion FROM tarea where nombre like :nombre and descripcion like :descripcion and (tarea.fecha between :desde and :hasta) order by tarea.fecha desc";
 
         $this->consultar($cadSQL);
 

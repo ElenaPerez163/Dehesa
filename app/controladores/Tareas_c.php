@@ -71,7 +71,11 @@ class Tareas_c extends Controller
 
     public function modificar()
     {
-        $this->tareas_m->modificar($_REQUEST);
+		$datos['idTarea']=$_REQUEST['idTarea'];
+		$datos['nombre']=$_REQUEST['nombre'];
+		$datos['Descripcion']=$_REQUEST['descripcion'];
+		$datos['fecha']=$_REQUEST['fecha'];
+        $this->tareas_m->modificar($datos);
         header("location:" . $_SERVER['HTTP_REFERER']);
     }
 
@@ -85,7 +89,9 @@ class Tareas_c extends Controller
     }
 
     public function ModificarDrop(){
-        echo $this->tareas_m->modificar($_REQUEST);
+		$datos['idTarea']=$_REQUEST['idTarea'];
+		$datos['fecha']=$_REQUEST['fecha'];
+        echo $this->tareas_m->modificar($datos);
     }
 
 }
